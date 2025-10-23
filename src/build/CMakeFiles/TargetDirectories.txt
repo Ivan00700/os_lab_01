@@ -1,0 +1,4 @@
+/mnt/c/Users/Иван/Documents/Операционные_Системы/os_lab_01/src/build/CMakeFiles/parent.dir
+/mnt/c/Users/Иван/Documents/Операционные_Системы/os_lab_01/src/build/CMakeFiles/child.dir
+/mnt/c/Users/Иван/Documents/Операционные_Системы/os_lab_01/src/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Иван/Documents/Операционные_Системы/os_lab_01/src/build/CMakeFiles/rebuild_cache.dir

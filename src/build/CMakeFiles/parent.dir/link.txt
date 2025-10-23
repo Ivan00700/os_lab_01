@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/parent.dir/parent.c.o -o parent 
